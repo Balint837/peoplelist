@@ -1,0 +1,13 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+main {
+    min-height: 25vw;
+}
+
+.bg-image {
+    background: url('@/assets/images/people2.jpg');
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 500px;
+}
+
